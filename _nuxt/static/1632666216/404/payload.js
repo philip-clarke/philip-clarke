@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/404", {data:[{_img:{"/philip-clarke/_ipx/w_70/images/logo.png":"\u002Fphilip-clarke\u002F_nuxt\u002Fimage\u002F03014a.png","/philip-clarke/_ipx/w_420/images/404.jpg":"\u002Fphilip-clarke\u002F_nuxt\u002Fimage\u002Fce42db.jpg","/philip-clarke/_ipx/w_748/images/404.jpg":"\u002Fphilip-clarke\u002F_nuxt\u002Fimage\u002Fb4d5d6.jpg"}}],fetch:{},mutations:void 0});
